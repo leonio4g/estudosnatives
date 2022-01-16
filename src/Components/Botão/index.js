@@ -8,6 +8,7 @@ const Botao = ({ title, onPress }) => {
             <Text style={style.text}>
                 {title}
             </Text>
+            
         </TouchableOpacity>
     )
 }
